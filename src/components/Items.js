@@ -1,4 +1,7 @@
-const Items = [
+
+import React from "react";
+ 
+let Dishes = [
     {
       id: 1,
       title: 'buttermilk pancakes',
@@ -71,6 +74,6 @@ const Items = [
       img: './images/item-9.jpeg',
       desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
     },
-  ];
-  
-  export default Items;
+  ]
+ 
+  export default Dishes;

@@ -19,7 +19,7 @@ const App = () => {
     setMenuItems(items);
 }
   return (
-    <div className="menuSection">
+    <div className="menuSection" id="main">
       <div className="title">
           <h2>Our Menu</h2>
           <div className="underline"></div>
